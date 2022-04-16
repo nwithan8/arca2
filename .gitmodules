@@ -1,0 +1,6 @@
+[submodule "cogs/queuecog"]
+	path = cogs/queuecog
+	url = git@github.com:nwithan8/queuecog.git
+[submodule "cogs/whoiscog"]
+	path = cogs/whoiscog
+	url = git@github.com:nwithan8/whoiscog.git
